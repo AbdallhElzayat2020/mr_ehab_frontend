@@ -2083,6 +2083,7 @@ table
 }
 
 /*Navbar*/
+
 .navbar-default {
     background: #f5f5f5;
 }
@@ -2143,8 +2144,7 @@ header #navbar {
     background: #f33807;
 }
 
-/* Main Menu Dropdown */
-.navbar-nav li {
+ .navbar-nav li {
     position: relative;
     text-align: left;
     margin-bottom: 0;
